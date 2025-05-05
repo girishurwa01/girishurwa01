@@ -2,7 +2,6 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/girishurwa01?style=social)](https://github.com/girishurwa01)
 [![LinkedIn](https://img.shields.io/badge/-Girish_Urwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/girish-urwa/)](https://www.linkedin.com/in/girish-urwa/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girishurwa77@gmail.com)](mailto:girishurwa77@gmail.com)
 
@@ -39,8 +38,8 @@ Computer Science Engineering Student (2022-2026) at St. Joseph Engineering Colle
 
 ### Lets do Tech - Germany (Remote)
 **Associate WordPress Developer** | Jan - May 2025
-- Optimized SEO strategies for blog.confer.ninja, increasing organic traffic by 35% within six months
-- Enhanced search engine rankings through content creation and keyword optimization, boosting user engagement by 40%
+- Optimized SEO strategies for blog.confer.ninja, increasing organic traffic.
+- Enhanced search engine rankings through content creation and keyword optimization.
 - Implemented on-page SEO best practices including meta tags, link building, and content restructuring
 
 ### Catholic Board of Education - Mangaluru (Remote)
@@ -70,7 +69,6 @@ Computer Science Engineering Student (2022-2026) at St. Joseph Engineering Colle
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=girishurwa01&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishurwa01&layout=compact&theme=radical" />
 </div>
 
@@ -90,10 +88,7 @@ Computer Science Engineering Student (2022-2026) at St. Joseph Engineering Colle
 
 <div align="center">
   
-
+![Visitor Count](https://profile-counter.glitch.me/girishurwa01/count.svg)
 
 *"Turning ideas into impactful digital solutions"*
-
-
-
 </div>
