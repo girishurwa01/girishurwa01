@@ -36,19 +36,19 @@ Computer Science Engineering Student (2022-2026) at St. Joseph Engineering Colle
 
 ## 🔭 Work Experience
 
-### Lets do Tech 🇩🇪
+### Lets do Tech -Germany 🇩🇪 (Remote)
 **Associate WordPress Developer** | Jan - May 2025
 - Optimized SEO strategies for blog.confer.ninja, increasing online traffic.
 - Enhanced search engine rankings through content creation and keyword optimization.
 - Implemented on-page SEO best practices including meta tags, link building, and content restructuring
 
-### Catholic Board of Education 🇮🇳
+### Catholic Board of Education 🇮🇳 -India (Freelance)
 **WordPress Developer** | Freelance Apr-May 2025
 - Developed a static informational website showcasing affiliated schools and colleges
 - Designed responsive layouts using HTML, CSS, and JavaScript for cross-device accessibility
 - Improved information visibility for key institutional data and stakeholders
 
-### Kakunje Software Limited 🇮🇳
+### Kakunje Software Limited 🇮🇳  -India  ( Trainee )
 **Full Stack Developer Trainee** | Sept-Dec 2025
 - Contributed to the development of E-Proctor system, enhancing security for online examinations
 - Implemented anti-cheat modules, behavior detection, user authentication, and data protection measures
