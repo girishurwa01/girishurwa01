@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Girish Urwa
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-Girish_Urwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/girish-urwa/)](https://www.linkedin.com/in/girish-urwa/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girishurwa77@gmail.com)](mailto:girishurwa77@gmail.com)
-
 </div>
 
 ## 💻 Full Stack Developer | SEO Specialist
