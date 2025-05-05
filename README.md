@@ -34,7 +34,7 @@ Computer Science Engineering Student (2022-2026) at St. Joseph Engineering Colle
 
 ### Lets do Tech - Germany (Remote)
 **Associate WordPress Developer** | Jan - May 2025
-- Optimized SEO strategies for blog.confer.ninja, increasing organic traffic.
+- Optimized SEO strategies for blog.confer.ninja, increasing online traffic.
 - Enhanced search engine rankings through content creation and keyword optimization.
 - Implemented on-page SEO best practices including meta tags, link building, and content restructuring
 
