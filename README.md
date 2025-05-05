@@ -90,10 +90,10 @@ Computer Science Engineering Student (2022-2026) at St. Joseph Engineering Colle
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/girishurwa01/count.svg)
+
 
 *"Turning ideas into impactful digital solutions"*
 
-⚡ Fun fact: I'm always exploring new technologies and looking for collaborative projects!
+
 
 </div>
