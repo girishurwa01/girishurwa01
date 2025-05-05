@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Girish Urwa
 
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-Girish_Urwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/girish-urwa/)](https://www.linkedin.com/in/girish-urwa/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girishurwa77@gmail.com)](mailto:girishurwa77@gmail.com)
+
 </div>
 
-## 💻 Full Stack Developer | SEO Specialist
+## 💻 Full Stack Developer | SEO Specialist | ![India](https://img.shields.io/badge/-India-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAmSURBVHjaYmRgYPjPQASwADETEZphmInhPxTDaCYGRvKdQioAAH9TCxMs4Ww6AAAAAElFTkSuQmCC)
 
 Computer Science Engineering Student (2022-2026) at St. Joseph Engineering College, Mangaluru, passionate about building responsive web applications and implementing effective digital marketing strategies.
 
@@ -32,28 +36,28 @@ Computer Science Engineering Student (2022-2026) at St. Joseph Engineering Colle
 
 ## 🔭 Work Experience
 
-### Lets do Tech - Germany (Remote)
+### ![Germany](https://img.shields.io/badge/-Germany-black?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAA8SURBVHjaYmRgYPjPQASwADETEZphmInhPwN+zRAaTANWMBqIQTUQbQDjqAGjBgw5AxiJTQnEGsDIAAA9dgMTEMfL3QAAAABJRU5ErkJggg==) Lets do Tech - Germany (Remote)
 **Associate WordPress Developer** | Jan - May 2025
 - Optimized SEO strategies for blog.confer.ninja, increasing online traffic.
 - Enhanced search engine rankings through content creation and keyword optimization.
-- Implemented on-page SEO best practices including meta tags, link building, and content restructuring
+- Implemented on-page SEO best practices including meta tags, link building, and content restructuring.
 
-### Catholic Board of Education - Mangaluru (Remote)
+### ![India](https://img.shields.io/badge/-India-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAmSURBVHjaYmRgYPjPQASwADETEZphmInhPxTDaCYGRvKdQioAAH9TCxMs4Ww6AAAAAElFTkSuQmCC) Catholic Board of Education - Mangaluru (Remote)
 **WordPress Developer** | Freelance Apr-May 2025
-- Developed a static informational website showcasing affiliated schools and colleges
-- Designed responsive layouts using HTML, CSS, and JavaScript for cross-device accessibility
-- Improved information visibility for key institutional data and stakeholders
+- Developed a static informational website showcasing affiliated schools and colleges.
+- Designed responsive layouts using HTML, CSS, and JavaScript for cross-device accessibility.
+- Improved information visibility for key institutional data and stakeholders.
 
-### Kakunje Software Limited - Mangaluru (Remote)
+### ![India](https://img.shields.io/badge/-India-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAmSURBVHjaYmRgYPjPQASwADETEZphmInhPxTDaCYGRvKdQioAAH9TCxMs4Ww6AAAAAElFTkSuQmCC) Kakunje Software Limited - Mangaluru (Remote)
 **Full Stack Developer Trainee** | Sept-Dec 2025
-- Contributed to the development of E-Proctor system, enhancing security for online examinations
-- Implemented anti-cheat modules, behavior detection, user authentication, and data protection measures
+- Contributed to the development of E-Proctor system, enhancing security for online examinations.
+- Implemented anti-cheat modules, behavior detection, user authentication, and data protection measures.
 
 ## 🎓 Education
 
-- **B.E. in Computer Science** | St. Joseph Engineering College, Vamanjoor, Mangaluru (2022-2026)
-- **Pre-University College** | Sharadha PU College, Kodialbail
-- **Schooling** | St. Aloysius English Medium School, Urwa
+- **B.E. in Computer Science** | St. Joseph Engineering College, Vamanjoor, Mangaluru ![India](https://img.shields.io/badge/-India-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAmSURBVHjaYmRgYPjPQASwADETEZphmInhPxTDaCYGRvKdQioAAH9TCxMs4Ww6AAAAAElFTkSuQmCC) (2022-2026)
+- **Pre-University College** | Sharadha PU College, Kodialbail ![India](https://img.shields.io/badge/-India-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAmSURBVHjaYmRgYPjPQASwADETEZphmInhPxTDaCYGRvKdQioAAH9TCxMs4Ww6AAAAAElFTkSuQmCC)
+- **Schooling** | St. Aloysius English Medium School, Urwa ![India](https://img.shields.io/badge/-India-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAmSURBVHjaYmRgYPjPQASwADETEZphmInhPxTDaCYGRvKdQioAAH9TCxMs4Ww6AAAAAElFTkSuQmCC)
 
 ## 📜 Certifications
 
@@ -87,4 +91,7 @@ Computer Science Engineering Student (2022-2026) at St. Joseph Engineering Colle
 ![Visitor Count](https://profile-counter.glitch.me/girishurwa01/count.svg)
 
 *"Turning ideas into impactful digital solutions"*
+
+⚡ Fun fact: I'm always exploring new technologies and looking for collaborative projects!
+
 </div>
